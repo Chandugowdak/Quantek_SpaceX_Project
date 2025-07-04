@@ -1,0 +1,9 @@
+All launches:
+https://api.spacexdata.com/v4/launches
+
+
+Upcoming:
+https://api.spacexdata.com/v4/launches/upcoming
+
+Past:
+https://api.spacexdata.com/v4/launches/past
